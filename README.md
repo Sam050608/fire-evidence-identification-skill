@@ -1,1 +1,2 @@
-# fire-evidence-identification-skill
+这是一项与涉火案件物证鉴定技术相关的技能。作者是deepseek harness，参考资料来自cppu廊坊校区侦查学院刑事科学技术教研室（火灾调查教研室）的李秀娟老师。所引用的skill是book-to-skill，仅用于测试
+This is a skill related to the identification technology of physical evidence in fire-related cases. The author is deepseek harness, and the reference material is provided by Teacher Li Xiujuan from the Criminal Science and Technology Teaching and Research Office (Fire Investigation Teaching and Research Office) of the Investigation College at CPPU Langfang Campus. The referenced skill is book-to-skill, which is only used for testing
